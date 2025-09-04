@@ -13,4 +13,4 @@ So overall, this dashboard gives a complete picture of Adidas’ sales – where
 
 
 
-(https://github.com/Shashidhar75/Adidas-sales-Analysis/blob/main/Adidas%20sales%20dashboard%20screenshot.png)
+![Dashboard preview].(https://github.com/Shashidhar75/Adidas-sales-Analysis/blob/main/Adidas%20sales%20dashboard%20screenshot.png).
