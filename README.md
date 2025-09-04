@@ -11,6 +11,7 @@ Yearly comparison shows that 2021 performed much better with $171M compared to o
 
 So overall, this dashboard gives a complete picture of Adidas’ sales – where they are strong, where they are weak, and how they can focus on regions, products, and pricing to maximize profitability.
 
+Screenshot:
 
 
-![Dashboard preview].(https://github.com/Shashidhar75/Adidas-sales-Analysis/blob/main/Adidas%20sales%20dashboard%20screenshot.png).
+Example: ![Dashboard preview](https://github.com/Shashidhar75/Adidas-sales-Analysis/blob/main/Adidas%20sales%20dashboard%20screenshot.png).
